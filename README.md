@@ -1,0 +1,2 @@
+# Spooky-s-Project-Backup
+This project was design to help those who do IT courses and can't take their own PC with them and need to take the project they made on a pen drive when they're done, and the oposite when they're back on class, easy to use, easy to configure, just one click and done!  / Esse projeto foi desenvolvido para alunos de TI que não podem levar seus PC's para a escola e precisam copiar os projetos desenvolvidos em aula quando a aula acaba, e o oposto quando voltam no outro dia, simples de usar e simples de configurar, só um clique e pronto.
